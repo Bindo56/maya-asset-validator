@@ -8,9 +8,13 @@ The release contains the installer, Maya module file, shelf helper, and the Pyth
 
 ## Demo
 
-[![Watch the Maya Asset Validator demo in Maya](media/demo_sword_import.png)](media/demo_sword_import.mp4)
 
-[Watch the 2:56 demo video](media/demo_sword_import.mp4) (9.3 MB). It shows the sword asset being checked in Maya and the results in the validator window.
+
+https://github.com/user-attachments/assets/cbbf91e8-8128-4c4d-b663-925b1d737d0b
+
+
+
+It shows the sword asset being checked in Maya and the results in the validator window.
 
 ## Compatibility
 
