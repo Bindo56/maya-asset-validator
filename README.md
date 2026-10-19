@@ -77,3 +77,7 @@ scripts/asset_validator/          Runtime Python package
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Support
+
+If this tool helps your work, you can [buy me a coffee](https://buymeacoffee.com/saurabhkundalwal). Support is optional; the tool remains free and open source.
