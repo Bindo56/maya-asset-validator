@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.ma.swatches
+*.mb.swatches
+
+# Local test material and development documentation are not part of this package release.
+docs/
+tests/
+TEST_GUIDE.md
+TOOL_GUIDE.md
+*.pdf
+*.mb
+*.fbx
