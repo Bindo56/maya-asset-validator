@@ -6,6 +6,12 @@ A Python tool for checking static polygon assets in Autodesk Maya before hand-of
 
 The release contains the installer, Maya module file, shelf helper, and the Python package. Maya supplies Python, Qt, and the Maya API; there are no pip dependencies.
 
+## Demo
+
+[![Watch the Maya Asset Validator demo in Maya](media/demo_sword_import.png)](media/demo_sword_import.mp4)
+
+[Watch the 2:56 demo video](media/demo_sword_import.mp4) (9.3 MB). It shows the sword asset being checked in Maya and the results in the validator window.
+
 ## Compatibility
 
 | Maya | UI binding |
