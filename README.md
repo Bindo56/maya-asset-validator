@@ -1,5 +1,7 @@
 # Maya Asset Validator
 
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/saurabhkundalwal)
+
 A Python tool for checking static polygon assets in Autodesk Maya before hand-off. It reports problems in a separate window, shows the affected objects or components, and lets you select them in Maya. Running checks does not edit the mesh.
 
 The release contains the installer, Maya module file, shelf helper, and the Python package. Maya supplies Python, Qt, and the Maya API; there are no pip dependencies.
